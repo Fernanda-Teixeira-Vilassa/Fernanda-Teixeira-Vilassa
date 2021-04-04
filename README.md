@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Fernanda-Teixeira-Vilassa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Fernanda-Teixeira-Vilassa/Fernanda-Teixeira-Vilassa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, me chamo Fernanda Vilassa, sou brasileira, estudo Análise e Desnvolvimentos de Sistemas na Estácio.
+Moro wm Vila Velha - ES.
+Estou interessada em aprender novas linguagens e criar aplicações.
+Atualmente estou aprendendo Java, HTML5, CSS3, JavaScript, C e C++.
+Pretendo trabalhar na área de TI. 
